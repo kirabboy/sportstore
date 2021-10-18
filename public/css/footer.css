@@ -1,0 +1,94 @@
+.ft_widget h4 {
+    color: #fed095;
+    font-size: 16px;
+    font-weight: 400;
+}
+.section_divider {
+    background:  #fed095;
+    max-width: 99px;
+    height: 1px;
+    display: block;
+    margin: 10px 0 10px;
+}
+.ft_widget ul li:before {
+    color: silver;
+    content: '\f0da';
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    padding-right: 5px;
+}
+.site-footer {
+   
+    margin-top: 10px;
+    padding-top: 10px;
+    
+}
+.bg-black {
+    background-color: rgba(0,0,0,.8);
+}
+.bg-black .bottom-footer {
+    padding-top: 10px;
+}
+ .ft_widget a , .ft_widget {
+    color: #c0c0c0!important;
+    font-size: 14px;
+    font-weight: 300;
+}
+.number-footer {
+    
+    color: #000;
+    background-color: #FED101;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 6px;
+    display: inline-block;
+}
+.chinhanhfooter span {
+    margin-bottom: 10px;
+   
+}
+.diachi{
+   
+    border-radius: 4px;
+    box-shadow: 0 0 6px rgb(0 0 0 / 34%);
+}
+.address-item{
+    overflow: visible;
+    margin: 0 1px 25px 1px;
+    padding:10px;
+}
+.address-footer, .phone-footer, .time-footer, .image-footer, .maps-footer {
+    width: 97%;
+    font-size: 16px;
+    display: block;
+    overflow: hidden;
+    white-space: normal;
+    word-wrap: break-word;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    line-height:2;
+}
+.address-footer {
+    font-weight: 600;
+}
+.bg-white { background-color: #ffffff;}
+.item-chinhanh{
+   
+padding: 10px 0 0 0;
+border-bottom: 1px solid #c4c4c4;
+
+}
+.title-footer {
+  
+    display: inline-block;
+    background-color: #4a90e2;
+    padding: 6px;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+    font-weight: 700;
+    font-size: 16px!important;
+    text-transform: uppercase;
+}
