@@ -57,10 +57,10 @@
 
           </div>
           <ul class="box-cart d-flex justify-content-space-around">
-            <li><a rel="nofollow" href="https://lifesport.vn/chi-nhanh" target="_blank" title="Chi nhánh"><i class="fas fa-code-branch"></i><span>Chi nhánh</span></a></li>
-            <li><a href="https://lifesport.vn/kinh-nghiem-hay" title="Kinh nghiệm hay"><i class="fas fa-users"></i><span>Kinh nghiệm hay</span></a></li>
+            <li><a rel="nofollow" href="#" target="_blank" title="Chi nhánh"><i class="fas fa-code-branch"></i><span>Chi nhánh</span></a></li>
+            <li><a href="#" title="Kinh nghiệm hay"><i class="fas fa-users"></i><span>Kinh nghiệm hay</span></a></li>
             <li>
-              <a href="https://lifesport.vn/gio-hang" title="Giỏ hàng">
+              <a href="#" title="Giỏ hàng">
                 <i class="fas fa-shopping-cart"></i>
                 <div id="themgiohang">
                   <div>
@@ -295,7 +295,7 @@
       e.preventDefault();
       $('html, body').animate({
         scrollTop: 0
-      }, '1800');
+      }, '1500');
     });
 
 

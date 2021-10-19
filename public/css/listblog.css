@@ -1,0 +1,103 @@
+.list-blog {
+    background-color: #fff;
+}
+.blog-item ul.posts li:first-child {
+    padding-top: 10px;
+    border-top: 1px solid #e5e5e5;
+}
+.blog-item li {
+    padding: 0 0 10px 0;
+}
+.blog-item ul {
+    padding: 0;
+}
+.blog-item li .img img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.blog-item .title {
+    display: block;
+    overflow: hidden;
+}
+.blog-item li a {
+    display: block;
+    overflow: hidden;
+    padding: 10px 0 0;
+    border-top: 1px solid #e5e5e5;
+}
+.blog-item .img {
+    width: 200px;
+}
+.blog-item li p {
+    display: block;
+    overflow: hidden;
+    margin: 5px 0;
+    color: #333;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 3;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    line-height: 23px;
+}
+.blog-item .title h3 {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    margin: 0;
+}
+.blog-item li .title h3 {
+    color: #236ba2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 18px;
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    margin-bottom: 5px;
+}
+.blog-item li .img {
+    float: left;
+    overflow: hidden;
+
+    padding-right: 20px;
+    height: auto;
+}
+.blog-item li .title .mylabel {
+    background: #e5e5e5;
+    border-radius: 3px;
+    color: #999;
+    padding: 1px 8px;
+    font-size: 10px;
+    line-height: 20px;
+}
+@media only screen and (max-width: 450px) {
+    .blog-item li p {
+        display: none;
+    }
+    .blog-item .img {
+        width: 33%;
+    }
+    .blog-item .title h3 {
+        -webkit-line-clamp: 3;
+        font-size: 15px;
+    }
+}
+.myblog h2 {
+    color: #000;
+    font-size: 36px;
+    line-height: 40px;
+    margin-bottom: 16px;
+    padding: 20px;
+    background: #c9e1fb;
+}
+.myblog h3 {
+    font-size: 22px !important;
+    line-height: 25px;
+    margin: 7px 0;
+}
+@media only screen and (max-width: 640px){
+.myblog h1 {
+    font-size: 32px;
+    line-height: 32px;
+}}

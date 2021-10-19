@@ -19,7 +19,8 @@ use App\Http\Controllers\HomeController;
 
 
 Route::get('/', [HomeController::class, 'home']);
-
+Route::get('/kinhnghiemhay', [HomeController::class, 'listblog']);
+Route::get('/blog', [HomeController::class, 'blog']);
 /*
 |--------------------------------------------------------------------------
 | Web Routes

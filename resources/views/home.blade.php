@@ -30,7 +30,39 @@
         <div class="slide-adv">
             <div class="row">
                 <div class="col-lg-8 col-md-12 col-12 col-xs-12 col-sm-12 px-0 px-lg-3   banner-left">
-                    <div id="carouselExampleControls" class="carousel slide  slide-item carousel-fade" data-ride="carousel">
+                    <div class="slider slider-x">
+                        <div class="slick-item">
+                            <img src="https://lifesport.vn/uploads/partners/lifesport-top-10-thuong-hieu-dan-dau.jpg" title="Lifesport vinh danh top 10 thương hiệu dẫn đầu Việt Nam" alt="Lifesport vinh danh top 10 thương hiệu dẫn đầu Việt Nam">
+                        </div>
+                        <div class="slick-item">
+                            <img src="https://lifesport.vn/uploads/partners/lifesport-top-100-thuong-hieu-duoc-ua-chuong.jpg" title="Lifesport vinh danh top 100 thương hiệu được ưa chuộng nhất 2020" alt="Lifesport vinh danh top 100 thương hiệu được ưa chuộng nhất 2020">
+                        </div>
+                        <div class="slick-item">
+                            <img src="https://lifesport.vn/uploads/partners/chao-mung-ngay-phu-nu-viet-nam.jpg" title="Chào mừng ngày Phụ Nữ Việt Nam, giảm giá lên đến 50%" alt="Chào mừng ngày Phụ Nữ Việt Nam, giảm giá lên đến 50%">
+                        </div>
+
+                    </div>
+                    <div class="slider slider-nav content-sd d-none d-lg-block d-md-none">
+                        <div class="slider-content">
+                            <h3>
+                                <span>Chào mừng ngày Phụ Nữ Việt Nam</span>
+                            </h3>
+                        </div>
+                        <div class="slider-content">
+                            <h3>
+                                <span>Chào mừng ngày Phụ Nữ Việt Nam</span>
+                            </h3>
+                        </div>
+                        <div class="slider-content">
+                            <h3>
+                                <span>Chào mừng ngày Phụ Nữ Việt Nam</span>
+                            </h3>
+                        </div>
+
+                    </div>
+
+
+                    <!-- <div id="carouselExampleControls" class="carousel slide  slide-item carousel-fade" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <img src="https://lifesport.vn/uploads/partners/lifesport-top-10-thuong-hieu-dan-dau.jpg" title="Lifesport vinh danh top 10 thương hiệu dẫn đầu Việt Nam" alt="Lifesport vinh danh top 10 thương hiệu dẫn đầu Việt Nam">
@@ -50,7 +82,7 @@
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col-4 banner-right d-none d-lg-block d-md-none">
                     <div class="top-bn">
@@ -102,7 +134,12 @@
                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                         </label>
                         <a href="#">
-                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                            <div class="box-image">
+                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                <label class="discount">GIẢM 23.500.000đ</label>
+
+                            </div>
+
                             <h3>Ghế Massage LifeSport LS-500</h3>
                             <div class="price">
                                 <strong>38.500.000đ</strong>
@@ -113,7 +150,7 @@
                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                 <p></p>
                             </div>
-                            <label class="discount">GIẢM 23.500.000đ</label>
+
                         </a>
                     </div>
                     <div class="sp-item">
@@ -121,7 +158,12 @@
                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                         </label>
                         <a href="#">
-                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                            <div class="box-image">
+                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                <label class="discount">GIẢM 23.500.000đ</label>
+
+                            </div>
+
                             <h3>Ghế Massage LifeSport LS-500</h3>
                             <div class="price">
                                 <strong>38.500.000đ</strong>
@@ -132,7 +174,7 @@
                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                 <p></p>
                             </div>
-                            <label class="discount">GIẢM 23.500.000đ</label>
+
                         </a>
                     </div>
                     <div class="sp-item">
@@ -140,7 +182,12 @@
                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                         </label>
                         <a href="#">
-                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                            <div class="box-image">
+                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                <label class="discount">GIẢM 23.500.000đ</label>
+
+                            </div>
+
                             <h3>Ghế Massage LifeSport LS-500</h3>
                             <div class="price">
                                 <strong>38.500.000đ</strong>
@@ -151,7 +198,7 @@
                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                 <p></p>
                             </div>
-                            <label class="discount">GIẢM 23.500.000đ</label>
+
                         </a>
                     </div>
                     <div class="sp-item">
@@ -159,7 +206,12 @@
                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                         </label>
                         <a href="#">
-                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                            <div class="box-image">
+                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                <label class="discount">GIẢM 23.500.000đ</label>
+
+                            </div>
+
                             <h3>Ghế Massage LifeSport LS-500</h3>
                             <div class="price">
                                 <strong>38.500.000đ</strong>
@@ -170,7 +222,7 @@
                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                 <p></p>
                             </div>
-                            <label class="discount">GIẢM 23.500.000đ</label>
+
                         </a>
                     </div>
                     <div class="sp-item">
@@ -178,7 +230,12 @@
                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                         </label>
                         <a href="#">
-                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                            <div class="box-image">
+                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                <label class="discount">GIẢM 23.500.000đ</label>
+
+                            </div>
+
                             <h3>Ghế Massage LifeSport LS-500</h3>
                             <div class="price">
                                 <strong>38.500.000đ</strong>
@@ -189,7 +246,7 @@
                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                 <p></p>
                             </div>
-                            <label class="discount">GIẢM 23.500.000đ</label>
+
                         </a>
                     </div>
                 </div>
@@ -237,8 +294,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -248,7 +310,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -258,8 +320,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -269,7 +336,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -279,8 +346,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -290,7 +362,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -300,8 +372,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -311,7 +388,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -321,8 +398,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -332,7 +414,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -342,8 +424,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -353,7 +440,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -386,7 +473,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-7 col-md-12 col-xs-12 col-sm-12">
+                        <div class="col-lg-7 col-md-12 col-xs-12 col-sm-12 ">
                             <div class="row">
                                 <div class="col-lg-4 col-md-4 col-6 ms-item">
                                     <div class="sp-item ">
@@ -394,8 +481,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -405,7 +497,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -415,8 +507,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -426,7 +523,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -436,8 +533,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -447,7 +549,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -457,8 +559,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -468,7 +575,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -478,8 +585,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -489,7 +601,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -499,8 +611,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -510,7 +627,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -564,8 +681,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -575,7 +697,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -585,8 +707,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -596,7 +723,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -606,8 +733,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -617,7 +749,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -627,8 +759,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -638,7 +775,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -648,8 +785,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -659,7 +801,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -669,8 +811,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -680,7 +827,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -736,8 +883,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -747,7 +899,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -757,8 +909,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -768,7 +925,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -778,8 +935,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -789,7 +951,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -799,8 +961,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -810,7 +977,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -820,8 +987,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -831,7 +1003,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -841,8 +1013,13 @@
                                             <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                                         </label>
                                         <a href="#">
-                                            <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                            <div class="box-image">
+                                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+
+                                                <label class="discount table-dis">GIẢM 23.500.000đ</label>
+                                            </div>
                                             <h3>Ghế Massage LifeSport LS-500</h3>
+
                                             <div class="price">
                                                 <strong>38.500.000đ</strong>
                                                 <span>62.000.000đ</span>
@@ -852,7 +1029,7 @@
                                                 <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                                 <p></p>
                                             </div>
-                                            <label class="discount table-dis">GIẢM 23.500.000đ</label>
+
                                         </a>
                                     </div>
                                 </div>
@@ -871,15 +1048,6 @@
                 </div>
             </div>
             <div class="slide-pd">
-                <div class="navigat d-flex justify-content-between">
-                    <h2><a href="#">Ghế massage</a></h2>
-                    <div class="viewallcat d-flex justify-content-between ">
-                        <div class="d-lg-block d-md-none d-none">
-
-                            <a href="#" class="mobile">Xem tất cả <b>24</b> <span style="text-transform:lowercase">Ghế massage</span></a>
-                        </div>
-                    </div>
-                </div>
                 <div class="silder-product-1">
                     <div class="items">
                         <div class="sp-item">
@@ -887,7 +1055,12 @@
                                 <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                             </label>
                             <a href="#">
-                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                <div class="box-image">
+                                    <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                    <label class="discount">GIẢM 23.500.000đ</label>
+
+                                </div>
+
                                 <h3>Ghế Massage LifeSport LS-500</h3>
                                 <div class="price">
                                     <strong>38.500.000đ</strong>
@@ -898,7 +1071,7 @@
                                     <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                     <p></p>
                                 </div>
-                                <label class="discount">GIẢM 23.500.000đ</label>
+
                             </a>
                         </div>
                         <div class="sp-item">
@@ -906,7 +1079,12 @@
                                 <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                             </label>
                             <a href="#">
-                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                <div class="box-image">
+                                    <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                    <label class="discount">GIẢM 23.500.000đ</label>
+
+                                </div>
+
                                 <h3>Ghế Massage LifeSport LS-500</h3>
                                 <div class="price">
                                     <strong>38.500.000đ</strong>
@@ -917,7 +1095,7 @@
                                     <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                     <p></p>
                                 </div>
-                                <label class="discount">GIẢM 23.500.000đ</label>
+
                             </a>
                         </div>
                         <div class="sp-item">
@@ -925,7 +1103,12 @@
                                 <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                             </label>
                             <a href="#">
-                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                <div class="box-image">
+                                    <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                    <label class="discount">GIẢM 23.500.000đ</label>
+
+                                </div>
+
                                 <h3>Ghế Massage LifeSport LS-500</h3>
                                 <div class="price">
                                     <strong>38.500.000đ</strong>
@@ -936,7 +1119,7 @@
                                     <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                     <p></p>
                                 </div>
-                                <label class="discount">GIẢM 23.500.000đ</label>
+
                             </a>
                         </div>
                         <div class="sp-item">
@@ -944,7 +1127,12 @@
                                 <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                             </label>
                             <a href="#">
-                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                <div class="box-image">
+                                    <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                    <label class="discount">GIẢM 23.500.000đ</label>
+
+                                </div>
+
                                 <h3>Ghế Massage LifeSport LS-500</h3>
                                 <div class="price">
                                     <strong>38.500.000đ</strong>
@@ -955,7 +1143,7 @@
                                     <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                     <p></p>
                                 </div>
-                                <label class="discount">GIẢM 23.500.000đ</label>
+
                             </a>
                         </div>
                         <div class="sp-item">
@@ -963,7 +1151,12 @@
                                 <img src="https://lifesport.vn/uploads/otherimage/hot-icon.gif" width="40" height="40">
                             </label>
                             <a href="#">
-                                <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                <div class="box-image">
+                                    <img src="https://lifesport.vn/uploads/products/ghe-massage-ls-500.jpg" alt="Ghế Massage LifeSport LS-500">
+                                    <label class="discount">GIẢM 23.500.000đ</label>
+
+                                </div>
+
                                 <h3>Ghế Massage LifeSport LS-500</h3>
                                 <div class="price">
                                     <strong>38.500.000đ</strong>
@@ -974,7 +1167,7 @@
                                     <p class="rating-lst" style="padding: 0 !important;"><span style="text-decoration: inherit; margin: 0;padding-bottom: 2px;"><b>4.9</b>/5<i class="fas fa-star"></i></span><span class="sl-rating" style="text-decoration: inherit; margin: 0;">11 đánh giá</span></p>
                                     <p></p>
                                 </div>
-                                <label class="discount">GIẢM 23.500.000đ</label>
+
                             </a>
                         </div>
                     </div>
@@ -1076,6 +1269,40 @@
 </style>
 <script type='text/javascript'>
     $(document).ready(function() {
+        $('.slider-for').slick({
+            arrows: false,
+            asNavFor: '.slider-nav,.slider-x',
+        });
+        $('.slider-x').slick({
+            arrows: true,
+            asNavFor: '.slider-for,.slider-nav',
+            infinite: true,
+            speed: 500,
+            fade: true,
+            cssEase: 'linear',
+          
+            responsive: [{
+                    breakpoint: 800,
+                    settings: {
+                        dots: true,
+
+                    }
+                },
+               
+
+
+            ]
+        });
+        $('.slider-nav').slick({
+            arrows: true,
+            asNavFor: '.slider-for,.slider-x',
+            centerMode: true,
+            centerPadding: '60px',
+          
+            focusOnSelect: true,
+            slidesToShow: 2,
+            autoplay: true
+        });
 
         $('.items').slick({
             infinite: true,
@@ -1087,7 +1314,7 @@
                         slidesToShow: 3,
                         slidesToScroll: 3,
                         infinite: true,
-                        dots: true
+
                     }
                 },
                 {
@@ -1119,7 +1346,7 @@
                     slidesToShow: 2,
                     slidesToScroll: 2,
                     infinite: true,
-                    dots: true
+
                 }
             }]
         });
