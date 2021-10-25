@@ -1,0 +1,106 @@
+/* dinh dang font-style va kich thuoc cua  chu duoc hien thi */
+body {
+    font-family: Arial, sans-serif;
+    font-size:14px;
+    background-color: #F3F3F3;
+
+}
+/*dinh dang mau chu va nen , va kich thuoc chu */
+.color-dm{
+    color:black;
+}
+
+
+
+
+.bg-icon{ color:#4A90E2 ;
+    font-size: 25px;
+
+}
+.border-color-content{
+    border: 1px solid #4A90E2;
+    color: #4A90E2;
+    
+    
+    
+}
+.border-color-content-b{
+   
+    text-decoration: none;
+    color:black;
+    
+}.border-color-content-b:hover{
+   
+    text-decoration: none;
+    color:black;
+}
+.border-color-content-a{
+    background-color: #4A90E2;
+ 
+    text-decoration: none;
+    color:white;
+}
+.border-color-content-a:hover{
+    background-color: #4A90E2;
+
+    text-decoration: none;
+    color:white;
+}
+
+
+/*phan card header sp */
+.name{
+    
+    color:black;
+
+}
+.name:hover{
+    color: #4A90E2; 
+    text-decoration: none;
+}
+.header-sp { 
+    font-size:9px;
+}
+
+
+.price{
+    font-size:16px;
+    color: #D00262;
+}
+
+.img-hd{
+    height:20px;
+}
+.img-hd:hover{
+
+}
+
+.header-sp-tm p{
+    font-size:18px;
+    line-height:40px;
+    height: 20px;
+}
+.start{
+    color:#FC9639;
+}
+.dg{
+    color:#666666;
+}
+.banchay{
+    background-color: #EB5757;
+    color:white
+}
+.tragop{
+    color:black;
+    background-color:#EFD130;
+}
+.detail-content{
+    background-color:#C9E1FB;
+    color: black;
+
+
+}
+.mau-nen{
+    background-color: white;
+}
+
